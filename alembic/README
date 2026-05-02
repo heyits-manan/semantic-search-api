@@ -1,0 +1,4 @@
+Alembic migrations will live here.
+
+Run `alembic init alembic` later if you want Alembic to generate its full configuration.
+
